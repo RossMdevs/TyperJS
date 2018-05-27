@@ -6,6 +6,7 @@
 2. Place a link to the Typer.js script at the bottom of your html file.
 
 ```<script src="typer.js"></script> ```
+
 3. Place a typer and cursor into your html file, like this:
 
 ```<h1>Typer.js is
