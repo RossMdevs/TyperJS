@@ -1,1 +1,4 @@
-language: javascript
+os: "linux
+dist: "trusty",
+group: "stable",
+language: "javascript"
