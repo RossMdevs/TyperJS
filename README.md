@@ -1,4 +1,4 @@
-[Demo](https://steven.codes/typerjs/) | [Download](#) 
+[Demo](https://steven.codes/typerjs/) | [Download](https://steven.codes/typerjs/typer.js) 
 
 
 1. Download the Typer.js file. It's only 3KB!
