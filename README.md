@@ -1,4 +1,4 @@
-[Demo](https://steven.codes/typerjs/) | [Download](https://public.rossm.pw/downloads/typerjs/) 
+[Demo - V3 SITE](https://v3rossm.pw/typerdemo/) | [Download](https://public.rossm.pw/downloads/typerjs/) 
 
 
 1. Download the Typer.js file. It's only 3KB!
@@ -13,4 +13,4 @@
   <span class="typer" id="main" data-words="great,fun,lightweight,easy" data-colors="white" data-delay="100" data-deleteDelay="1000"></span>
   <span class="cursor" data-owner="main"></span>
 </h1>
-<p>the typing effect with a pure HTML interface</p>```
+<p>the typing effect with a pure HTML interface</p>
