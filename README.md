@@ -1,11 +1,14 @@
-[Demo - V3 SITE](https://assets.rossm.pw/typerdem) | [Download](#) 
+[Demo - V3 SITE](https://assets.rossmers.ch/typerdem) | [Download](#) 
 
 
 1. Download the Typer.js file. It's only 3KB!
 
 2. Place a link to the Typer.js script at the bottom of your html file.
 
-```<script src="typer.js"></script> ```
+If you want to self-host the JS: ```<script src="location/of/your/typer.js"></script> ``` 
+OR
+If you don't want to self-host the JS: ```<script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>```
+
 
 3. Place a typer and cursor into your html file, like this:
 
