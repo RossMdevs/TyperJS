@@ -1,3 +1,4 @@
+// Nothing needs modified here, modify the <div> tag on the index page
 var Typer = function(element) {
   this.element = element;
   var delim = element.dataset.delim || ","; // default to comma
