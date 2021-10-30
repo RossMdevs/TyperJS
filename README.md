@@ -6,7 +6,9 @@
 2. Place a link to the Typer.js script at the bottom of your html file.
 
 If you want to self-host the JS: ```<script src="location/of/your/typer.js"></script> ``` 
+<br />
 OR
+<br />
 If you don't want to self-host the JS: ```<script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>```
 
 
