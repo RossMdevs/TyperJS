@@ -1,4 +1,4 @@
-[Demo - V3 SITE](https://assets.rossmers.ch/typerdem) | [Download](#) 
+[Demo - V3 SITE](https://rossmers.ch) | [Download](#) 
 
 
 1. Download the Typer.js file. It's only 3KB!
