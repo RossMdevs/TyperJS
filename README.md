@@ -1,4 +1,4 @@
-[Demo - V3 SITE](https://v3rossm.pw/typerdemo/) | [Download](https://public.rossm.pw/downloads/typerjs/) 
+[Demo - V3 SITE](https://assets.rossm.pw/typerdem) | [Download](#) 
 
 
 1. Download the Typer.js file. It's only 3KB!
